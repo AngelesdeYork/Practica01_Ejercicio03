@@ -1,13 +1,61 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.btn-pers {
+  background-color: #ebebeb !important;
+  color: black !important;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.btn-pers:hover {
+  background-color: #8f8f8f !important;
+}
+
+.bg-color {
+  background-color: #cd8433 !important;
+  color: #510000 !important;
+  border: solid 1px #510000;
+}
+
+.bg-player {
+  background-color: #cd8433 !important;
+  border: solid 1px #510000;
+}
+
+.bg-data {
+  background-color: #e6c199 !important;
+  border: solid 1px #510000;
+}
+
+.bg-nothing {
+  border-top: 1px solid #510000;
+  border-right: 1px solid #510000;
+}
+
+.imgSize {
+  width: 150px;
+  height: 150px;
+  padding: 5px;
+}
+
+.btn-game {
+  background-color: #e6c199 !important;
+  border: 2px solid #510000 !important;
+}
+
+.btn-game:hover {
+  background-color: #cd8433 !important;
+  border: 2px solid #510000 !important;
+}
+
+.bg-title {
+  background-color: #e6c199;
+  border: 1.5px solid #510000;
+}
+
+.table {
+  text-align: center;
+  width: 35px !important;
+  height: 15px !important;
+}
+
+.imgSizeEmo {
+  width: 220px;
+  height: 220px;
 }
